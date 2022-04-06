@@ -17,5 +17,6 @@ use App\Http\Controllers;
 Route::get('', function () {
     return view('/welcome');
 });
-Route::view('/contact', 'contact');
-Route::view('Naveen-Goud/about', 'about');
+Route::get('/about', function () {
+    return view('resources.views.about');
+});
