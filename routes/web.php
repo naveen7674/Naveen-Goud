@@ -14,9 +14,8 @@ use App\Http\Controllers;
 |
 */
 
-Route::get('', function () {
-    return view('/welcome');
+Route::get('/', function () {
+    return view('welcome');
 });
-Route::get('/about', function () {
-    return view('resources.views.about');
-});
+Route::view('/contact', 'contact');
+Route::view('/about', 'about');
