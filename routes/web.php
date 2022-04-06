@@ -15,7 +15,7 @@ use App\Http\Controllers;
 */
 
 Route::get('https://naveen7674.github.io/', function () {
-    return view('resources/views/welcome');
+    return view('/welcome');
 });
 Route::view('/contact', 'contact');
-Route::view('https://naveen7674.github.io/Naveen-Goud/about', 'resources/views/about');
+Route::view('https://naveen7674.github.io/Naveen-Goud/about', 'about');
