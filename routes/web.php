@@ -15,7 +15,7 @@ use App\Http\Controllers;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('resources/views/welcome');
 });
 Route::view('/contact', 'contact');
-Route::view('/about', 'about');
+Route::view('resources/views/about', 'about');
