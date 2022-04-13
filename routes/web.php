@@ -17,8 +17,8 @@ use App\Http\Controllers;
 Route::get('/', function () {
     return view('index');
 });
-Route::get('home', function () {
-    header("Location: index.html");
+Route::get('about', function () {
+    return view('about');
 });
-Route::view('/contact', 'contact');
-Route::view('/about', 'about');
+
+
