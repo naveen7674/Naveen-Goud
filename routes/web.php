@@ -14,11 +14,11 @@ use App\Http\Controllers;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+// Route::get('/', function () {
+//     return view('index');
+// });
 Route::get('about', function () {
-    return view('about');
+    return docs('about');
 });
 
 
