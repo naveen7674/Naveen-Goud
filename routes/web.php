@@ -18,7 +18,7 @@ Route::get('/', function () {
     return view('index');
 });
 Route::get('about', function () {
-    return docs('about');
+    return view('about');
 });
 
 
