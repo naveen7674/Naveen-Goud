@@ -42,7 +42,7 @@
     <body class="antialiased">
         <div class="page-header">
             <div class="logo" style="width:40%; float:left;">
-            <img src="/public/image/logo" style="width:200px; height:200px;">
+            <img src="image/logo.jpg" style="width:200px; height:200px;">
             <span>Web Delvolper</span>
             </div>
             <img src="/public/image/name.jpg" style="width:250px; height:200px;">
