@@ -45,7 +45,7 @@
             <img src="public/image/logo.jpg" style="width:200px; height:200px;">
             <span>Web Delvolper</span>
             </div>
-            <img src="public/image/name.jpg" style="width:250px; height:200px;">
+            <img src="public/image/name" style="width:250px; height:200px;">
            <div class="w3-bar w3-card-2 notranslate" style="float:right;margin-right:50px;">     
            <ul>
                 <li><a href="home" class="button">Home</a></li>
