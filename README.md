@@ -42,10 +42,10 @@
     <body class="antialiased">
         <div class="page-header">
             <div class="logo" style="width:40%; float:left;">
-            <img src="image/logo.jpg" style="width:200px; height:200px;">
+            <img src="public/image/logo.jpg" style="width:200px; height:200px;">
             <span>Web Delvolper</span>
             </div>
-            <img src="/public/image/name.jpg" style="width:250px; height:200px;">
+            <img src="public/image/name.jpg" style="width:250px; height:200px;">
            <div class="w3-bar w3-card-2 notranslate" style="float:right;margin-right:50px;">     
            <ul>
                 <li><a href="home" class="button">Home</a></li>
@@ -57,9 +57,9 @@
         </div>
         <div class="container">
             <div class="container-fluid" style="padding-left:25%;">
-                <img src="/public/image/img10.jpg" style="width: 25%; height: 15%;">
-                <img src="/public/image/img7.jpg" style="width: 25%; height: 15%;">
-                <img src="/public/image/img6.jpg" style="width: 25%; height: 18%;">    
+                <img src="public/image/img10.jpg" style="width: 25%; height: 15%;">
+                <img src="public/image/img7.jpg" style="width: 25%; height: 15%;">
+                <img src="public/image/img6.jpg" style="width: 25%; height: 18%;">    
             </div>
             <h5 style="text-align:center;padding: 30px;">There is no such thing as a “self-made” man. We are made up of thousands of others. Everyone who has ever done a kind...</h5>
 
