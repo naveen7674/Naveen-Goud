@@ -1,5 +1,5 @@
 
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html lang="">
     <head>
         <title>Naveen goud,Edgi</title>
         <meta charset="utf-8">
